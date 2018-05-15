@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  font-size: 2em;
+  padding-top: 5vh;
+}
+
+.mainInfo {
+  position: absolute;
+  top: 40%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  border: 1px solid black;
+  border-radius: 6px;
+  font-size: 2em;
+  padding: 0 10vw;
+
+}
+
+.rQuote {
+  padding: 15px 0;
+}
+
+Button {
+  margin: 5px 15px;
+}
