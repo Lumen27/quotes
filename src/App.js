@@ -40,7 +40,7 @@ class App extends Component {
                 </Row>
                 <Row>
                     <Col sm={7} className="mainInfo text-center">
-                        <div className="rQuote">
+                        <div className="quoteRender">
                             <Quote quote={this.state.quote} author={this.state.author}/>
                         </div>
                         <div className="buttons">

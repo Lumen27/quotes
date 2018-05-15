@@ -20,8 +20,12 @@
 
 }
 
-.rQuote {
+.quoteRender {
   padding: 15px 0;
+}
+
+.rAuthor {
+  padding-top: 20px;
 }
 
 Button {
