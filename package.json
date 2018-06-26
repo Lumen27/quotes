@@ -2,7 +2,7 @@
   "name": "quotes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lumen27.github.io/quotes",
+  "homepage": "http://lumen27.github.io/quotesReact",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.1.1",
