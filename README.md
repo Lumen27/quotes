@@ -1,4 +1,4 @@
 # Random Quotes React
 Simple Random Quotes made with React, Axios and Bootstrap.
 
-Check it out at https://lumen27.github.io/quotes/
+Check it out at https://lumen27.github.io/quotesReact/
